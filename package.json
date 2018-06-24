@@ -1,0 +1,17 @@
+{
+  "name": "cucumberjs",
+  "version": "1.0.0",
+  "description": "Example of CucumberJS 4x usage",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "Andrei Varabyeu",
+  "license": "MIT"
+}
+
